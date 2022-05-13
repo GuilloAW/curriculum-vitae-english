@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.js"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+  <title>Curriculum Vitae</title>
+</head>
+<style>
+  body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.1em;
+    color: #323232;
+  }
+  ul li{
+margin: 0.8em 0px;
+  }
+  p{
+    line-height: 1.4em;
+  }
+  .wid-100{
+    width: 100%;
+  }
+  .dis-g-2,.dis-g-2-800{
+    display: grid;
+    grid-template-columns: 49% 49%;
+    column-gap: 1%;
+  }
+  .dis-b{
+    display: block;
+  }
+  .fon-s-1d2{
+    font-size: 1.2em;
+  }
+  .col-r{
+    color: rgb(187, 39, 47);
+  }
+  .col-b{
+    color: #0b4f7a;
+  }
+  .col-p{
+    color: #5e1260;
+  }
+  .col-yg{
+    color: #5e5c0e;
+  }
+  .fon-w-b{
+    font-weight: bolder;
+  }
+  .fechas{
+    background-color: #666666;
+    width: fit-content;
+    padding: 0.2em;
+    color: white;
+    float: right;
+  }
+  .wid-80w{
+    width: 80vw;
+  }
+  .mar-a{
+  margin: auto;
+  }
+  .tex-a-r{
+    text-align: right;
+  }
+  .col-rr{
+    color: #c90d50;
+  }
+  .gap-c-4{
+    column-gap: 4vw;
+  }
+  hr{
+    border:dashed 2px #9b9a9b;
+    margin-bottom: 1em;
+  }
+  button{
+    background-color: transparent;
+    padding: 0.5em;
+    border-radius: 10px;
+    border: 1px solid #323232 ;
+    cursor: pointer;
+  }
+  .tex-a-c{
+    text-align: center;
+  }
+  @media only screen and (max-width: 800px) {
+  .dis-g-2-800{
+    display: grid;
+    grid-template-columns: 100%;
+    column-gap: 1vw;
+  }
+}
+</style>
+<body>
+  <header>
+    <nav class="tex-a-r wid-80w mar-a">
+      <button onclick="callMd('spanish')" id="btnLang">Spanish</button>
+    </nav>
+  </header>
+  <main id="content">
+  </main>
+  <script>
+    const content=document.querySelector("#content");
+    const btnLang=document.querySelector("#btnLang");
+    function callMd(lang) {
+      let languaje= localStorage.getItem('languaje') === "english" ? lang="spanish" : lang="english";
+      let btnLangTex= localStorage.getItem('languaje') === "english" ? "English" : "Español";
+      localStorage.setItem('languaje',lang);
+      btnLang.textContent=btnLangTex;
+      fetch(`${lang}.md`)
+      .then(res => res.ok ? res.text() : Promise.reject(res))
+      .then(text => {
+        content.innerHTML = new showdown.Converter().makeHtml(text);
+      });
+    }
+    (function () {
+      callMd('english');
+    })()
+  </script>
+</body>
+</html>
