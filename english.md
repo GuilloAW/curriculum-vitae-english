@@ -1,34 +1,34 @@
-<div markdown='1' class='dis-g-2-800 wid-80w mar-a gap-c-4'>
 <div markdown='1'>
-<div class='tex-a-c'>
-<img src='https://accesibleweb.com/img/yo-mini.png' alt='Guillermo&apos;s illustration'>
+<div markdown='1'>
+<div class="tex-a-c" markdown='1'>
+<img src=https://accesibleweb.com/img/guillermo-developer-aw.webp alt="Guillermo&apos;s illustration">
+##<i class="fa-solid fa-angle-left"></i>Guillermo Forero</i><i class="fa-solid fa-chevron-right"></i>
+<p class="tex-a-j">Professional graphic designer and web developer <strong> Front End Designer</strong>,
+with more than 6 years of experience, magister in mobile and web app accesibility, you can know my work</p>
 </div>
-<center>
-# &lt;Guillermo Forero&gt;
-</center>
-
-Professional graphic designer and web developer (**Front End Designer**),
-with more than 6 years of experience, magister in mobile and web app accesibility, you can know my work
-
-##Contact:
-*  [( +57 ) 305 931 5159](https://api.whatsapp.com/send?phone=573059315159 "send message")
-*  [linkedin profile](https://accesibleweb.com "linkedin profile")
-*  [Work](https://accesibleweb.com/portafolio#guillermo "Guillermo's Portafolio")
-
+</div>
+<div markdown='1'>
+###Contact:
+<div class='lis-s-n' markdown='1'>
+* <i class="fa-brands fa-whatsapp col-g"></i>  [( +57 ) 305 931 5159](https://api.whatsapp.com/send?phone=573059315159 "send messagen")
+* <i class="fa-brands fa-linkedin col-b"></i> [linkedin profile](https://www.linkedin.com/in/guillermo-forero-aw/ "linkedin profile")
+* <i class="fa-solid fa-briefcase"></i> [Work](https://accesibleweb.com/portafolio#guillermo "Guillermo's Portafolio")
+</div>
 ##Objetive:
 Teamwork leader, manager, administrator and advisor web accesibility project, multidisciplinary work between design and and programming
 
 **B1 English - Jira app - Trello app - scrum methodology - Leadership - Conflict resolution - Conflict Resolution - Analytical - Self-starter**
 
 ##Technical Skills
-
-* Illustrator, Photoshop, Indesign, After, Effects, Premiere
-* VSCode - DreamWaver
-* Adobe XD - Zeplin - Figma
-* HTML5, CSS3 - Bootstrap, PHP - Codelniter, MSQL
-* JavaScript - TypesScript - JQuery - React
-* Joomla y Wordpress
-* Git y GitHub
+<div class='lis-s-n' markdown='1'>
+* <i class="fas fa-bezier-curve col-g "></i> Illustrator, Photoshop, Indesign, After, Effects, Premiere
+* <i class="fas fa-laptop-code col-g "></i> VSCode - DreamWaver
+* <i class="fab fa-figma col-g "></i> Adobe XD - Zeplin - Figma
+* <i class="fas fa-code col-g "></i> HTML5, CSS3 - Bootstrap, PHP - Codelniter, MSQL
+* <i class="fab fa-js col-g "></i> JavaScript - TypesScript - JQuery - React
+* <i class="fab fa-wordpress-simple col-bl "></i> Joomla y Wordpress
+* <i class="fas fa-code-merge col-bl "></i> Git y GitHub
+</div>
 
 ##Education:
 - **Magister in Accessible Technologies:**
@@ -36,10 +36,11 @@ Websites, applications and mobile devices (UNIR España) <div class="fechas">201
 - **Professional Digital Media Designer and Producer:** (F.U. San Mateo) <div class="fechas">2015</div>
 - **Webinar:** Digital marketing and advanced web designer - (F.U. San Mateo) <div class="fechas">2013</div>
 </div>
+</div>
 <div markdown='1'>
 ##Work Experience:
 
-<div class='dis-g-2'>
+<div class='dis-g-2-a'>
 <div>
 <div class='fon-s-1d2 col-r fon-w-b'><strong>Web Developer</strong></div>
 <div><strong>Company:</strong> ColombiaGames</div>
@@ -60,7 +61,7 @@ Websites, applications and mobile devices (UNIR España) <div class="fechas">201
 * Meet goals according to schedule
 * Teamwork and <strong>leadership</strong>
 <hr>
-<div class='dis-g-2'>
+<div class='dis-g-2-a'>
 <div>
 <div class='fon-s-1d2 col-b fon-w-b'><strong>Web Developer</strong></div>
 <div><strong>Company:</strong> Humanity & Inclusion</div>
@@ -91,10 +92,10 @@ Websites, applications and mobile devices (UNIR España) <div class="fechas">201
 </div>
 </div>
 * Web prototyping layout
-* Programming with HTML5, CSS3, JS, Codelniter
+* Programming with <strong>HTML5, CSS3, JS y Codelniter</strong>
 * Meet goals according to schedule
 <hr>
-<div class='dis-g-2'>
+<div class='dis-g-2-a'>
 <div>
 <div class='fon-s-1d2 col-yg fon-w-b'>Developer, design and advisor accesibility web</div>
 <div><strong>Company:</strong> Atajo AW S.A.S</div>
@@ -106,12 +107,12 @@ Websites, applications and mobile devices (UNIR España) <div class="fechas">201
 </div>
 </div>
 </div>
-* Team developer leader and advisor
+* Team developer <strong>leader and advisor</strong>
 * Web design proposals according trending
-* Programming with HTML5, CSS3, JS and SVG
-* Administer process and client communication
+* Programming with <strong>HTML5, CSS3, JS and SVG</strong>
+* Administer process and <strong>client communication</strong>
 <hr>
-<div class='dis-g-2'>
+<div class='dis-g-2-a'>
 <div>
 <div class='fon-s-1d2 col-rr fon-w-b'>Graphic Designer</div>
 <div><strong>Company:</strong> San Mateo Foundation University</div>
@@ -123,11 +124,10 @@ Websites, applications and mobile devices (UNIR España) <div class="fechas">201
 </div>
 </div>
 </div>
-* Marketing campaign manager
-* Pieces desing web and print
-* Desing UX and UI
+* Marketing <strong>campaign manager</strong>
+* Pieces <strong>desing web and print</strong>
+* Desing <strong>UX and UI</strong>
 * Web design proposals according trending
-* Layout landing page, forms and web
+* Layout <strong>landing page, forms and web</strong>
 * Meet goals according to schedule
-</div>
 </div>

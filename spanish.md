@@ -1,34 +1,33 @@
-<div markdown='1' class='dis-g-2-800 wid-80w mar-a gap-c-4'>
 <div markdown='1'>
-<div class='tex-a-c'>
-<img src='https://accesibleweb.com/img/yo-mini.png' alt='Guillermo&apos;s illustration'>
+<div markdown='1'>
+<div class="tex-a-c" markdown='1'>
+<img src=https://accesibleweb.com/img/guillermo-developer-aw.webp alt="">
+##<i class="fa-solid fa-angle-left"></i>Guillermo Forero</i><i class="fa-solid fa-chevron-right"></i>
+<p class="tex-a-j">Diseñador y desarrollador web profesional o <strong>Front End Designer</strong> con más de 6 años de experiencia, Magister en Accesibilidad de móviles, aplicaciones y web, conoce mi trabajo.</p>
 </div>
-
-<center>
-# &lt;Guillermo Forero&gt;
-</center>
-
-Diseñador y desarrollador web profesional o **Front End Designer** con más de 6 años de experiencia, Magister en Accesibilidad de móviles, aplicaciones y web, conóce mi trabajo.
-
-##Contacto:
-*  [( +57 ) 305 931 5159](https://api.whatsapp.com/send?phone=573059315159 "Enviale un mensaje a guillermo")
-*  [Guillermo-forero-aw](https://www.linkedin.com/in/guillermo-forero-aw/ "Ir al perfil de linkedin de guillermo forero")
-*  [Portafolio](https://accesibleweb.com/portafolio#guillermo "Portafolio de guillermo forero")
-
+</div>
+<div markdown='1'>
+###Contacto:
+<div class='lis-s-n' markdown='1'>
+* <i class="fa-brands fa-whatsapp col-g"></i>  [( +57 ) 305 931 5159](https://api.whatsapp.com/send?phone=573059315159 "Enviale un mensaje a guillermo")
+* <i class="fa-brands fa-linkedin col-b"></i> [Guillermo-forero-aw](https://www.linkedin.com/in/guillermo-forero-aw/ "Ir al perfil de linkedin de guillermo forero")
+* <i class="fa-solid fa-briefcase"></i> [Portafolio](https://accesibleweb.com/portafolio#guillermo "Portafolio de guillermo forero")
+</div>
 ##Experiencia profesional:
 Gestor y administrador de proyectos web, diseñador de experiencias, asesor de accesibilidad web, líder de trabajo en equipo, creador del trabajo multidisciplinar entre diseño y programación
 
 **Ingles B1 - Jira - Trello -Metdologías Ágiles (SCRUM) - Liderazgo - Resolución de conflictos - Analítico - Autodidácta**
 
 ##Herramientas
-
-* Illustrator, Photoshop, Indesign, After, Effects, Premiere
-* VSCode - DreamWaver
-* Adobe XD - Zeplin - Figma
-* HTML5, CSS3 - Bootstrap, PHP - Codelniter, MSQL
-* JavaScript - TypesScript - JQuery - React
-* Joomla y Wordpress
-* Git y GitHub
+<div class='lis-s-n' markdown='1'>
+* <i class="fas fa-bezier-curve col-g "></i> Illustrator, Photoshop, Indesign, After, Effects, Premiere
+* <i class="fas fa-laptop-code col-g "></i> VSCode - DreamWaver
+* <i class="fab fa-figma col-g "></i> Adobe XD - Zeplin - Figma
+* <i class="fas fa-code col-g "></i> HTML5, CSS3 - Bootstrap, PHP - Codelniter, MSQL
+* <i class="fab fa-js col-g "></i> JavaScript - TypesScript - JQuery - React
+* <i class="fab fa-wordpress-simple col-bl "></i> Joomla y Wordpress
+* <i class="fas fa-code-merge col-bl "></i> Git y GitHub
+</div>
 
 ##Formación académica:
 - **Magister en Tecnologías Accesibles:**
@@ -36,13 +35,14 @@ Páginas web, aplicaciones y dispositivos móviles (UNIR España) <div class="fe
 - **Profesional Diseñador y Realizador de Médios Digitales:** (F.U. San Mateo) <div class="fechas">2015</div>
 - **Webinar:** digital marketing and advance web designer - (F.U. San Mateo) <div class="fechas">2013</div>
 </div>
+</div>
 <div markdown='1'>
-##Experiencia laboral:
+###Experiencia laboral:
 
-<div class='dis-g-2'>
+<div class='dis-g-2-a'>
 <div>
 <div class='fon-s-1d2 col-r fon-w-b'><strong>Desarrollador Programador</strong></div>
-<div><strong>Company:</strong> ColombiaGames</div>
+<div><strong>Empresa:</strong> ColombiaGames</div>
 </div>
 <div>
 <div class="fechas">
@@ -60,10 +60,10 @@ Páginas web, aplicaciones y dispositivos móviles (UNIR España) <div class="fe
 * Gestión de metas según calendario
 * Trabajo en equipo y <strong>liderazgo</strong>
 <hr>
-<div class='dis-g-2'>
+<div class='dis-g-2-a'>
 <div>
 <div class='fon-s-1d2 col-b fon-w-b'><strong>Desarrollador Web</strong></div>
-<div><strong>Company:</strong> Humanity & Inclusion</div>
+<div><strong>Empresa:</strong> Humanity & Inclusion</div>
 </div>
 <div>
 <div class="fechas">
@@ -82,7 +82,7 @@ Páginas web, aplicaciones y dispositivos móviles (UNIR España) <div class="fe
 <div class='dis-g-2'>
 <div>
 <div class='fon-s-1d2 col-p fon-w-b'><strong>Desarrollador Front End</strong></div>
-<div><strong>Company:</strong> IPVOX S.A.S</div>
+<div><strong>Empresa:</strong> IPVOX S.A.S</div>
 </div>
 <div>
 <div class="fechas">
@@ -95,11 +95,10 @@ Páginas web, aplicaciones y dispositivos móviles (UNIR España) <div class="fe
 * Programming with <strong>HTML5, CSS3, JS y Codelniter</strong>
 * Meet goals according to schedule
 <hr>
-<div class='dis-g-2'>
+<div class='dis-g-2-a'>
 <div>
-<div class='fon-s-1d2 col-yg fon-w-b'>Desarrollador, diseñador
-y asesor de accesibilidad web</div>
-<div><strong>Company:</strong> Atajo AW S.A.S</div>
+<div class='fon-s-1d2 col-yg fon-w-b'>Desarrollador, diseñador y asesor de accesibilidad web</div>
+<div><strong>Empresa:</strong> Atajo AW S.A.S</div>
 </div>
 <div>
 <div class="fechas">
@@ -108,24 +107,25 @@ y asesor de accesibilidad web</div>
 </div>
 </div>
 </div>
-* Team developer <strong>leader and advisor</strong>
-* Web design proposals according trending
-* Programming with <strong>HTML5, CSS3, JS and SVG</strong>
-* Administer process and <strong>client communication</strong>
+* Asesor y <strong>lider de equipo</strong> de desarrollo
+* Propuestas de diseño según nuevas tendencias
+* Programación con <strong>HTML5, CSS3, JS, SVG</strong>
+* Administración de procesos y <strong>trato con cliente</strong>
+* Gestión de metas según calendario
 <hr>
 <div>
 <div class='fon-s-1d2 col-rr fon-w-b'>Graphic Designer</div>
-<div><strong>Company:</strong> Foundation university San Mateo</div>
+<div><strong>Empresa:</strong> Fundación Universitaria San Mateo</div>
 </div>
 <div class="fechas">
 <div>01/02/2016</div>
 <div>22/08/2018</div>
 </div>
-* Marketing <strong>campaign manager</strong>
-* Pieces <strong>desing web and print</strong>
-* Desing <strong>UX and UI</strong>
-* Web design proposals according trending
-* Layout <strong>landing page, forms and web</strong>
-* Meet goals according to schedule
-</div>
+* Gestor de campañas publicitarias
+* Administrador de <strong>procesos de campañas</strong>
+* Diseño de <strong>piezas impresas y web</strong>
+* Diseño de <strong>UX y UI</strong>
+* Propuestas de diseño según tendencias
+* Maquetado <strong>landing page, formularios y web</strong>
+* Gestión de metas según calendario
 </div>
